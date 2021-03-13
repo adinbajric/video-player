@@ -1,0 +1,10 @@
+.video-thumbnail {
+  display: flex;
+  align-items: center;
+  padding: 0 0 10px 20px;
+}
+
+h5 {
+  margin-top: -10px;
+  margin-left: 10px;
+}

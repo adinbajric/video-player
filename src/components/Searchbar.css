@@ -1,0 +1,21 @@
+.searchbar {
+  width: 70%;
+  margin: 0 auto;
+  height: 30px;
+  border-radius: 10px;
+  border-style: none;
+  text-align: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  height: 30px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border-style: none;
+  text-align: center;
+  background-color: #fff;
+}
