@@ -1,14 +1,14 @@
 .App {
   margin: 0 auto;
   width: 95%;
-  color: rgb(218, 214, 214);
+  color: #fff;
 }
 
 .searchbar-container {
   margin: 0 auto;
-  border-radius: 5px;
+  border-radius: 0 0 5px 5px;
   padding: 12px;
-  background-color: rgba(103, 89, 129, 0.979);
+  background-color: rgb(26, 24, 24);
 }
 
 .videos-container {
@@ -16,6 +16,6 @@
   margin-top: 12px;
   padding-top: 12px;
   padding-bottom: 12px;
-  background-color: rgba(103, 89, 129, 0.979);
-  border-radius: 5px;
+  background-color: rgb(26, 24, 24);
+  border-radius: 5px 5px 0 0;
 }
